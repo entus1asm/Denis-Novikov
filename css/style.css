@@ -445,6 +445,7 @@ body {
 		height: 50px;
 		background-color: rgba(255, 255, 255, 0.815);
 		padding: 0px 15px 0px 15px;
+		justify-content: end;
 	}
 
 	.header__burger {
